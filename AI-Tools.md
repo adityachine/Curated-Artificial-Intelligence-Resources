@@ -11,6 +11,7 @@
 
 ---
 <h2 align="center">🚀 Popular Tools in this Category</h2>
+
 ### 🔹 [Dynatrace](https://www.dynatrace.com/) *(Paid)*  
 AI-native platform for full-stack observability, real-time incident detection, and automated root-cause analysis.
 
@@ -59,6 +60,7 @@ Query, visualize, and respond faster with generative AI-assisted Elastic Stack.
 
 ---
 <h2 align="center">🚀 Popular Tools in this Category</h2>
+
 ### 🔹 [Testim.io](https://www.testim.io/) *(Freemium)*  
 AI-assisted UI and functional test automation.
 
@@ -89,6 +91,7 @@ AI-assisted bug tracker tailored for Product and QA teams.
 
 ---
 <h2 align="center">🚀 Popular Tools in this Category</h2>
+
 ### 🔹 [Motion](https://usemotion.com/) *(Paid)*  
 AI calendar and task scheduling.
 
@@ -122,6 +125,7 @@ Automate schedules to maximize productivity.
 
 ---
 <h2 align="center">🚀 Popular Tools in this Category</h2>
+
 ### 🔹 [HireVue](https://www.hirevue.com/) *(Paid)*  
 AI-assisted video interviewing and scoring.
 
