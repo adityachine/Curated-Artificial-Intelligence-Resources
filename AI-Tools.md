@@ -10,7 +10,7 @@
 > **Description:** Provide oversight, automated responses, vulnerability management, and alerting across your stack.
 
 ---
-
+<h2 align="center">🚀 Popular Tools in this Category</h2>
 ### 🔹 [Dynatrace](https://www.dynatrace.com/) *(Paid)*  
 AI-native platform for full-stack observability, real-time incident detection, and automated root-cause analysis.
 
@@ -58,7 +58,7 @@ Query, visualize, and respond faster with generative AI-assisted Elastic Stack.
 > **Description:** Validate functionality, find bugs faster, and release with confidence.
 
 ---
-
+<h2 align="center">🚀 Popular Tools in this Category</h2>
 ### 🔹 [Testim.io](https://www.testim.io/) *(Freemium)*  
 AI-assisted UI and functional test automation.
 
@@ -88,7 +88,7 @@ AI-assisted bug tracker tailored for Product and QA teams.
 > **Description:** Automate routines, streamline collaboration, and keep operations running smoothly.
 
 ---
-
+<h2 align="center">🚀 Popular Tools in this Category</h2>
 ### 🔹 [Motion](https://usemotion.com/) *(Paid)*  
 AI calendar and task scheduling.
 
@@ -121,7 +121,7 @@ Automate schedules to maximize productivity.
 > **Description:** Hire smarter, develop talent, and foster a thriving workplace culture.
 
 ---
-
+<h2 align="center">🚀 Popular Tools in this Category</h2>
 ### 🔹 [HireVue](https://www.hirevue.com/) *(Paid)*  
 AI-assisted video interviewing and scoring.
 
@@ -149,7 +149,7 @@ Platform for performance reviews, goals, and engagement surveys.
 ### 🔹 [Culture Amp](https://www.cultureamp.com/) *(Paid)*  
 Employee engagement, culture, and feedback platform.
 
-<h1 align="center">🟣 Finance Tools</h1>
+## 🟣 Finance Tools
 
 ---
 
@@ -224,6 +224,150 @@ Support financial operations through accurate forecasting, fraud detection, cash
 ### 🔹 [DataRails](https://www.datarails.com/) *(Paid)*
 **Activity:** Spreadsheet-native Reporting  
 **Usage:** Integrate directly with Microsoft Excel to streamline financial reporting, budgeting, and forecasting.
+
+---
+
+## 🟣 Data Scientist / Full Stack Developer Tools
+
+---
+
+## 📁 Activity:
+- **Development**
+- **Deployment**
+- **Scaling**
+
+## 📝 Description:
+Help build, deploy, and scale data applications efficiently, combining software engineering practices with AI-powered development.
+
+---
+
+<h2 align="center">🚀 Popular Tools in this Category</h2>
+
+---
+
+### 🔹 [GitHub Copilot](https://github.com/features/copilot) *(Paid — Free for students/open source)*
+**Activity:** AI Pair Programming  
+**Usage:** Accelerate coding with whole-line or full-function code suggestions across languages and frameworks.
+
+---
+
+### 🔹 [Kite](https://www.kite.com/) *(Free)*
+**Activity:** Python Code Completion  
+**Usage:** Boost development speed by auto-suggesting code as you type.
+
+---
+
+### 🔹 [Weights & Biases](https://wandb.ai/) *(Freemium)*
+**Activity:** Experiment Tracking  
+**Usage:** Visualize, compare, and share machine learning experiments at scale.
+
+---
+
+### 🔹 [MLflow](https://mlflow.org/) *(Free)*
+**Activity:** ML Lifecycle Management  
+**Usage:** Track experiments, package code, and deploy models reproducibly.
+
+---
+
+### 🔹 [Streamlit](https://streamlit.io/) *(Free)*
+**Activity:** Interactive Data Apps  
+**Usage:** Quickly create shareable web apps for data exploration and ML models.
+
+---
+
+### 🔹 [Gradio](https://gradio.app/) *(Free)*
+**Activity:** Model Demos  
+**Usage:** Let anyone interact with your model via browser without complex setup.
+
+---
+
+### 🔹 [FastAPI](https://fastapi.tiangolo.com/) *(Free)*
+**Activity:** API Development  
+**Usage:** Serve ML models and data applications at scale with fast, production-ready APIs.
+
+---
+
+### 🔹 [DVC (Data Version Control)](https://dvc.org/) *(Free)*
+**Activity:** Version Control for ML  
+**Usage:** Track data, code, and model versions to ensure reproducibility.
+
+---
+
+### 🔹 [DeepCode (Snyk Code)](https://snyk.io/product/snyk-code/) *(Free)*
+**Activity:** AI Code Review  
+**Usage:** Automatically detect security issues and coding errors in your projects.
+
+---
+
+### 🔹 [Codacy](https://www.codacy.com/) *(Freemium)*
+**Activity:** Code Quality Monitoring  
+**Usage:** Measure code metrics, enforce standards, and improve maintainability.
+
+---
+
+## 🟣 Data Engineer Tools
+
+---
+
+## 📁 Activity:
+- **Modeling**
+- **Data Quality**
+- **Automation**
+
+## 📝 Description:
+Help build reliable, scalable, and maintainable data pipelines while ensuring high data quality.
+
+---
+
+<h2 align="center">🚀 Popular Tools in this Category</h2>
+
+---
+
+### 🔹 [Apache Airflow](https://airflow.apache.org/) *(Free)*
+**Activity:** Workflow Orchestration  
+**Usage:** Define ETL workflows as code, schedule, and monitor complex dependencies.
+
+---
+
+### 🔹 [dbt (Data Build Tool)](https://www.getdbt.com/) *(Freemium)*
+**Activity:** SQL-Based Transformation  
+**Usage:** Build modular SQL pipelines and test data quality easily.
+
+---
+
+### 🔹 [Talend](https://www.talend.com/) *(Paid)*
+**Activity:** Data Integration  
+**Usage:** Manage data ingestion, transformation, and governance at scale.
+
+---
+
+### 🔹 [Fivetran](https://www.fivetran.com/) *(Paid)*
+**Activity:** Managed ELT  
+**Usage:** Replicate data from diverse sources into warehouses with minimal maintenance.
+
+---
+
+### 🔹 [Apache Kafka](https://kafka.apache.org/) *(Free)*
+**Activity:** Event Streaming  
+**Usage:** Build scalable, real-time streaming data applications.
+
+---
+
+### 🔹 [StreamSets](https://streamsets.com/) *(Paid)*
+**Activity:** Smart Pipelines  
+**Usage:** Design, deploy, and monitor data flows with a low-code interface.
+
+---
+
+### 🔹 [Great Expectations](https://greatexpectations.io/) *(Free)*
+**Activity:** Data Quality Testing  
+**Usage:** Test, document, and monitor data pipelines for quality assurance.
+
+---
+
+### 🔹 [Dagster](https://dagster.io/) *(Free)*
+**Activity:** Modern Data Orchestration  
+**Usage:** Build pipelines with rich metadata tracking and testing.
 
 ---
 
