@@ -8,6 +8,18 @@ Designed to help practitioners, students, and innovators navigate the growing ec
 ## 📁 Resources
 
 - [Artificial Analysis](resources/artificialanalysis.md) — An independent platform offering in-depth benchmarking and insights into the performance of different Artificial Intelligence models.
+- [AI Tools](resources/AI-Tools.md) — A curated list of powerful tools for developing, analyzing, and optimizing Artificial Intelligence applications.
+- [LICENSE](LICENSE) — The license under which this repository is distributed.
+
+---
+
+## 🟣 Categories (Coming soon)
+
+- 🟣 **AI Tools**
+- 🟣 **AI Models**
+- 🟣 **AI Frameworks and Libraries**
+- 🟣 **AI Applications**
+- 🟣 **Research Papers and Blogs**
 
 ---
 
@@ -28,3 +40,6 @@ If you'd like to add a tool or a resource, please:
 This directory aims to be a community-driven hub of knowledge for all things Artificial Intelligence.  
 Your contributions help keep it up-to-date and useful.
 
+---
+
+🚀 Happy exploring, contributing, and innovating in the world of Artificial Intelligence! 🌟
